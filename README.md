@@ -3,7 +3,7 @@
 
 ## Project Description
 * Single Page Application for managing Inventory
-* Tech Stack: HTML, CSS, React, Node, Express
+* Tech Stack: HTML, CSS, Javascript, Node, Express
 * Application provides below features
     1. Adding /Deleting items in Inventory.
     2. Increasing/Decreasing quantity of inventory items.
