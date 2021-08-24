@@ -17,8 +17,9 @@
 * Run command ```node server.js``` to run the application. Application will start running at ```http://localhost:3000/```
 
 ## Demo
+For full demo [click here](https://drive.google.com/drive/u/0/folders/111ZBqSCnZ2QWN0FtnDhR8udxgrfTYf5e)
+
 ![InventoryStoreGif](./demo/InventoryStoreDemo.gif)
- For full demo [click here](https://drive.google.com/drive/u/0/folders/111ZBqSCnZ2QWN0FtnDhR8udxgrfTYf5e)
  
 
 ## Screenshots
